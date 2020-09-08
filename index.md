@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my collection of tips and tricks for navigating BIT Hybrid learning
 
 You can use the [editor on GitHub](https://github.com/Sam-Toma/4thGradeBIT/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
